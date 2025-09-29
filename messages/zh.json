@@ -1,0 +1,507 @@
+{
+  "metadata": {
+    "title": "Indo Charcoal | 用于水烟和烧烤的椰壳炭块",
+    "description": "来自印度尼西亚的高品质椰壳炭块。耐用、环保，非常适合水烟和烧烤。联系我们进行全球出口。",
+    "keywords": "水烟椰壳炭, 水烟炭供应商, 烧烤炭块, 印度尼西亚木炭出口商, 椰壳炭, 木炭供应商, 从印度尼西亚出口椰壳炭块",
+    "alternates": {
+      "canonical": "https://www.indocharcoalsupply.com/zh",
+      "languages": {
+        "x-default": "https://www.indocharcoalsupply.com",
+        "en": "https://www.indocharcoalsupply.com",
+        "ar": "https://www.indocharcoalsupply.com/ar",
+        "zh": "https://www.indocharcoalsupply.com/zh"
+      }
+    },
+    "openGraph": {
+      "title": "Indo Charcoal Supply | 优质炭块",
+      "description": "探索用于水烟和烧烤的高品质、可持续的椰壳炭块。从印度尼西亚出口到世界各地。",
+      "siteTitle": "Indo Charcoal Supply",
+      "type": "website",
+      "url": "https://www.indocharcoalsupply.com/zh",
+      "images": [
+        {
+          "url": "https://www.indocharcoalsupply.com/opengraph-image.png",
+          "width": 1200,
+          "height": 630,
+          "alt": "Indo Charcoal Supply"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Indo Charcoal Supply | 优质炭块",
+      "description": "探索用于水烟和烧烤的高品质、可持续的椰壳炭块。从印度尼西亚出口到世界各地。",
+      "images": [
+        "https://www.indocharcoalsupply.com/opengraph-image.png"
+      ]
+    },
+    "robots": {
+      "index": true,
+      "follow": true
+    }
+  },
+  "navbar": {
+    "home": "首页",
+    "ourValues": "我们的价值观",
+    "product": "产品",
+    "packaging": "包装",
+    "shipping": "运输",
+    "ourTeam": "我们的团队",
+    "contact": "联系我们",
+    "blog": "博客"
+  },
+  "hero": {
+    "catalog": "下载目录",
+    "contact": "联系我们",
+    "paragraph": "Indo Charcoal Supply 公司成立于2021年，致力于为客户提供最优质、最快捷、最可靠的服务。自成立以来，公司一直专注于高品质煤砖的生产和出口。",
+    "company-profile": "下载公司简介",
+    "download-options": "下载选项"
+  },
+  "stat": {
+    "country": "国家",
+    "client": "客户",
+    "testimonie": "客户评价"
+  },
+  "values": {
+    "ourValue": "我们的价值观",
+    "integrityDescription": "我们承诺在运营的各个方面都秉持诚实、道德和透明的原则。",
+    "integrityTitle": "诚信",
+    "qualityTitle": "品质",
+    "qualityDescription": "我们始终将产品和服务的质量放在首位，以满足并超越客户的期望。",
+    "innovationTitle": "创新",
+    "innovationDescription": "我们不断寻求新的、更好的方法来改进我们的产品、流程和服务。",
+    "satisfactionTitle": "客户满意度",
+    "satisfactionDescription": "我们致力于确保每一位客户对我们的产品和服务都完全满意。",
+    "serviceTitle": "客户服务",
+    "serviceDescription": "我们通过响应迅速、周到和专业的服务，将客户满意度放在首位。",
+    "cooperationTitle": "合作",
+    "cooperationDescription": "我们相信，与客户、商业伙伴和社区的合作是实现共同成功的关键。"
+  },
+  "vision": {
+    "title": "我们的愿景与使命",
+    "visionTitle": "愿景",
+    "vision": "成为一家提供高品质、可持续产品的领先出口公司，为全球经济做出积极贡献。",
+    "missionTitle": "使命",
+    "mission1": "在信任和相互满意度的基础上，与客户和商业伙伴建立长期关系。",
+    "mission2": "发展高效可靠的国际分销网络，以满足全球市场的需求。",
+    "mission3": "通过持续的培训和专业发展，提升员工的技能和福利。"
+  },
+  "product": {
+    "productTitle": "我们的产品",
+    "specAsh": "灰分含量",
+    "specBurning": "燃烧时间",
+    "specCaloric": "热值",
+    "specMoisture": "水分",
+    "specFixedCarbon": "固定碳",
+    "shishaType": "水烟炭",
+    "shishaCube": "方块",
+    "shishaHighTemperature": "高温型",
+    "shishaCloud": "Cloud",
+    "shishaFlat": "扁平",
+    "shishaHighFlow": "高流量型",
+    "bbqType": "烧烤炭",
+    "bbqOcta": "八角形",
+    "bbqDome": "圆顶形",
+    "bbqHexa": "六角形",
+    "bbqFinger": "条状",
+    "customTitle": "需要定制形状吗？",
+    "customDescription": "与我们合作，设计能体现您品牌形象的定制煤砖形状和尺寸。",
+    "customButton": "联系我们"
+  },
+  "prodProcess": {
+    "title": "生产过程",
+    "description": "我们的椰壳炭砖经过精心制作，确保最高的质量和可持续性。以下是我们的生产步骤分解：",
+    "sourcingTitle": "采购与筛选",
+    "sourcingDescription": "我们从可持续种植园采购最优质的椰子壳开始。精心挑选以确保质量和纯度。",
+    "dryingTitle": "干燥",
+    "dryingDescription": "椰子壳经过干燥以降低水分含量，确保高效的碳化和高质量的炭砖。",
+    "carbonizationTitle": "碳化",
+    "carbonizationDescription": "在受控的温度和氧气条件下，在窑中对壳进行碳化，生产高碳木炭。",
+    "crushingTitle": "破碎与筛选",
+    "crushingDescription": "将木炭破碎并筛选，以获得均匀的颗粒大小，优化燃烧性能。",
+    "mixingTitle": "混合与粘合",
+    "mixingDescription": "将木炭与淀粉或粘土等天然粘合剂混合，以将炭砖粘合在一起。",
+    "moldingTitle": "成型与压制",
+    "moldingDescription": "将混合物压入模具中。压力决定了炭砖的密度和耐久性。",
+    "finalDryingTitle": "最终干燥",
+    "finalDryingDescription": "成型的炭砖再次干燥，去除残留水分，准备包装。",
+    "qualityControlTitle": "质量控制",
+    "qualityControlDescription": "每批产品都经过严格的质量检查：密度、灰分、水分和燃烧持续时间。",
+    "packagingTitle": "包装",
+    "packagingDescription": "成品炭砖经过精心包装，以在运输和储存过程中保护它们。",
+    "storageTitle": "储存",
+    "storageDescription": "炭砖应存放在干燥、通风、避免阳光直射和高温的地方。"
+  },
+  "shipping": {
+    "containerAlt": "Indo Charcoal Supply 运输集装箱",
+    "aboutTitle": "关于运输",
+    "aboutParagraph1": "我们的团队可以为您的运输需求提供支持。请联系我们获取更多信息。",
+    "aboutParagraph2": "我们的最小起订量（MOQ）为一个18吨的集装箱（20英尺）。请联系我们的团队，讨论您的需求，以确定最适合您业务的最小起订量。",
+    "guideTitle": "购买指南：政策与流程",
+    "guideParagraph": "我们接受电汇（T/T）和信用证（L/C）付款方式，确保交易安全。支付50%的定金后，您的订单即获确认并开始生产。剩余50%的款项在生产完成后支付。"
+  },
+  "packaging": {
+    "title": "包装选项",
+    "yourBrandourPackaging": "您的品牌，我们的包装",
+    "masterAlt": "外箱",
+    "masterTitle": "外箱",
+    "masterDescription": "这款大型外箱专为在运输和储存过程中容纳和保护您的煤砖而设计。",
+    "masterAvailable": "可选尺寸：",
+    "masterSize10": "10公斤",
+    "masterSize12": "12公斤",
+    "masterSize15": "15公斤",
+    "masterSize20": "20公斤",
+    "innerAlt": "内盒",
+    "innerTitle": "内盒",
+    "innerDescription": "这款盒子旨在保护您的煤砖免受潮湿和损坏，便于携带和储存。",
+    "innerAvailable": "可选尺寸：",
+    "innerSize1to2": "1 - 2公斤",
+    "innerSize250to500": "250 - 500克",
+    "customPackagingTitle": "需要定制包装吗？",
+    "customizationText": "我们的外箱可以根据您的要求定制，印上您的徽标和品牌。",
+    "customizationContact": "联系我们",
+    "customizationSuffix": "，讨论您的定制设计需求。"
+  },
+  "testimonialsSection": {
+    "sectionId": "testimonialsSection",
+    "title": "我们的客户怎么说",
+    "testimonialList": [
+      {
+        "quote": "The quality of the charcoal is outstanding. Consistent heat and long burning time. Our customers are very satisfied.",
+        "author": "Ahmed R.",
+        "location": "Dubai, UAE"
+      },
+      {
+        "quote": "Excellent communication and reliable shipping. Indo Charcoal Supply is a trustworthy partner for our business.",
+        "author": "Michael B.",
+        "location": "Berlin, Germany"
+      },
+      {
+        "quote": "We were impressed with the custom packaging options. It really helped our brand stand out in a competitive market.",
+        "author": "Fatima K.",
+        "location": "Jeddah, Saudi Arabia"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "公司相册"
+  },
+  "faq": {
+    "supertitle": "您的问题，我们来回答",
+    "title": "常见问题",
+    "subtitle": "查找有关我们的椰壳炭砖、质量标准和出口流程的常见问题的答案。",
+    "q1_question": "你们的椰壳炭砖的质量规格是什么？",
+    "q1_answer": "我们保证出口优质椰壳炭砖。我们的规格包括水分含量低于5％，灰分含量低于2.5％，热值超过7400 Kcal/kg，确保燃烧时间长，热量稳定。",
+    "q2_question": "你们生产哪种类型的炭砖？",
+    "q2_answer": "作为印度尼西亚的一家木炭压块厂，我们生产各种类型，包括用于水烟（水烟袋）的立方体和六角形压块，以及由硬木锯末制成的烧烤压块。",
+    "q3_question": "你们的产品环保吗？",
+    "q3_answer": "是的，我们的炭砖由100％的椰子壳或锯末制成，它们是可再生资源。我们的产品产生的烟雾很少，是普通木炭的更环保的替代品。",
+    "q4_question": "出口的最低订购量（MOQ）是多少？",
+    "q4_answer": "我们的最低起订量是一个20英尺的集装箱，容量约为18吨。我们准备为向各国出口木炭压块的需求提供服务。",
+    "q5_question": "我该如何下订单？",
+    "q5_answer": "您可以通过电子邮件或WhatsApp与我们的营销团队联系。我们将指导您完成从产品选择、报价（FOB/CIF）到订单确认的整个过程。",
+    "q6_question": "Indo Charcoal Supply是直接工厂还是经纪人？",
+    "q6_answer": "我们是印度尼西亚一家值得信赖的木炭压块厂和出口商。我们在印度尼西亚日惹的工厂管理从原材料选择到包装的整个生产过程。"
+  },
+  "blog": {
+    "title": "我们的博客和见解",
+    "readMore": "阅读更多",
+    "viewAllPosts": "查看所有帖子",
+    "backToBlog": "返回博客",
+    "backToHome": "返回主页",
+    "global-market-trends-2025": {
+      "title": "全球椰壳炭砖市场趋势（2025年第三季度分析）",
+      "excerpt": "对2025年影响国际椰壳炭市场的5个关键趋势的权威分析，从对低灰分含量的需求到白标的兴起。",
+      "image": "/tren.webp",
+      "date": "2025年9月25日",
+      "category": "市场分析",
+      "meta": {
+        "title": "2025年全球木炭市场趋势 | Indo Charcoal Supply",
+        "description": "通过我们对2025年全球椰壳炭砖市场趋势的专家分析，保持领先地位。了解向低灰分、可持续性和白标的转变。"
+      },
+      "content": [
+        {
+          "type": "h2",
+          "text": "价值驱动的转型"
+        },
+        {
+          "type": "p",
+          "text": "2025年的全球椰壳炭砖市场正在经历一场重大转型。它已经从一个价格驱动的商品市场转变为一个<strong>价值驱动的行业</strong>，在这个行业中，质量、可持续性和品牌形象至关重要。对于进口商、分销商和品牌来说，了解这些关键趋势对于驾驭市场格局和确保竞争优势至关重要。"
+        },
+        {
+          "type": "p",
+          "text": "以下是当今塑造该行业的权威市场趋势："
+        },
+        {
+          "type": "h3",
+          "text": "1. 市场由对超低灰分含量的需求主导"
+        },
+        {
+          "type": "p",
+          "text": "这是最重要的技术趋势。高端市场——尤其是中东、欧洲和北美的シーシャ/水烟市场——已经树立了新的质量标杆。"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>新标准：</strong>灰分含量<strong>低于2.5%</strong>现在是任何优质产品的预期标准。灰分含量为3-4%的炭砖越来越被视为标准或低档产品。",
+            "<strong>驱动因素：</strong>这是由受教育程度更高的消费者群体推动的，他们要求更清洁的体验，没有味道改变，更好的热量管理和更少的维护。对于进口商来说，低灰分产品可以提高客户满意度和品牌忠诚度。"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "2. 可持续性已成为不可协商的要求"
+        },
+        {
+          "type": "p",
+          "text": "环境和道德采购不再是“锦上添花”的功能；它是进入市场，特别是西方市场的<strong>关键要求</strong>。"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>供应链透明度：</strong>进口商现在被要求证明其拥有环保的供应链。这意味着要提供证据，证明炭砖是由<strong>升级再造的椰子壳废料</strong>制成的（而不是来自森林砍伐），并且生产支持循环经济。",
+            "<strong>竞争优势：</strong>一个可验证的可持续发展故事是一种强大的营销工具，能引起有意识的消费者的共鸣，并为拥有严格企业社会责任（CSR）规定的大型零售商打开大门。"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "3. “白标”服务和定制品牌开发的激增"
+        },
+        {
+          "type": "p",
+          "text": "市场正在从转售普通商品向打造独特品牌发生重大转变。进口商越来越多地扮演<strong>品牌所有者</strong>的角色，而不仅仅是贸易商。"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>品牌建设而非转售：</strong>买家正在积极寻找能够提供全面<strong>“白标”服务</strong>的制造合作伙伴。这包括在内盒和外箱上印刷定制设计，以建立自己的品牌形象。",
+            "<strong>战略目标：</strong>目标是实现更高的利润率，在本地市场建立品牌忠诚度，并使他们的产品与竞争对手区分开来。提供灵活、高质量定制包装服务的工厂需求量很大。"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "4. 供应商合作中的“追求品质”"
+        },
+        {
+          "type": "p",
+          "text": "经验丰富的进口商正在整合业务，从小型、不可靠的贸易商转向<strong>成熟、透明的制造商</strong>。"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>风险规避：</strong>这一趋势的驱动力是希望避免诸如批次之间质量不一致、生产延误和沟通不畅等常见问题。买家现在将<strong>可靠性和专业性</strong>与产品质量同等重视。",
+            "<strong>对透明度的要求：</strong>进口商现在期望与工厂建立直接关系，获得清晰详细的技术数据表（TDS），以及供应商出口团队的响应迅速、专业的沟通。"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "5. 针对利基市场应用的产品多样化"
+        },
+        {
+          "type": "p",
+          "text": "虽然经典的立方体形状仍然是水烟的标准，但人们对不同形状的兴趣日益浓厚，以迎合特定的利基市场和品牌差异化。"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>定制形状：</strong>诸如<strong>六角形、手指形和扁平炭砖</strong>等形状越来越受欢迎，用于特定类型的烧烤架、独特的水烟碗，或者仅仅作为品牌在视觉上脱颖而出的一种方式。",
+            "<strong>已证明的能力：</strong>制造商生产各种形状的能力被视为先进生产能力和灵活性的指标，使其成为更具吸引力的长期合作伙伴。"
+          ]
+        },
+        {
+          "type": "blockquote",
+          "text": "总而言之，2025年的全球炭砖市场优先考虑<strong>可证明的质量（低灰分）、真实的故事（可持续性）和专业的、增值的合作伙伴关系（白标和透明度）</strong>。如果以牺牲这三大核心支柱为代价，价格将不再是主要驱动力。"
+        }
+      ]
+    },
+    "guide-international-shipping-indonesian-charcoal": {
+      "title": "从工厂车间到您的仓库：印度尼西亚木炭的国际运输和物流指南",
+      "excerpt": "高质量的产品只有在安全准时到达时才有价值。本指南揭开了物流过程的神秘面纱，从专业的包装和集装箱装载到出口单证。",
+      "image": "/shiping.webp",
+      "date": "2025年9月25日",
+      "category": "物流与运输",
+      "meta": {
+        "title": "印度尼西亚木炭的运输和物流指南 | Indo Charcoal Supply",
+        "description": "为进口商提供的关于从印度尼西亚运输椰壳炭砖的国际运输流程的重要指南，包括包装、装载、单证和国际贸易术语解释通则。"
+      },
+      "content": [
+        {
+          "type": "h2",
+          "text": "一个伟大的产品仅仅是成功的一半"
+        },
+        {
+          "type": "p",
+          "text": "您选择了一款规格优良的优质椰壳炭砖。但是从印度尼西亚的工厂到您的仓库的旅程是复杂的，充满了潜在的挑战。一个真正专业的供应商不仅仅是掌握生产；<strong>他们掌握物流</strong>。本指南全面透明地介绍了国际运输流程，确保您的投资在每一步都受到保护。"
+        },
+        {
+          "type": "h3",
+          "text": "第1步：第一道防线——专业的包装和码垛"
+        },
+        {
+          "type": "p",
+          "text": "在您的订单经受远洋运输的严酷考验之前，它必须经过无可挑剔的包装。这不仅仅是一个盒子。外箱被安全地堆放在符合<strong>ISPM 15国际木材处理标准</strong>的木托盘上。然后用多层拉伸膜将整个托盘紧紧包裹起来。这个过程被称为<strong>码垛</strong>，它创建了一个稳定、统一的整体，可以防止箱子在运输过程中移位和被压坏。"
+        },
+        {
+          "type": "h3",
+          "text": "第2步：集装箱装载的艺术"
+        },
+        {
+          "type": "p",
+          "text": "在确保安全的同时最大化集装箱空间是一项技能。我们通常使用<strong>20英尺或40英尺的集装箱</strong>，容量分别约为18-19吨和26-27吨。我们经验丰富的团队采用“地板装载”或“手堆”的方法，仔细安排每个外箱，以优化空间并均匀分配重量。这可以防止在海运过程中发生移动，并确保集装箱稳定安全地运输。"
+        },
+        {
+          "type": "h3",
+          "text": "第3步：处理文书工作——基本的出口单证"
+        },
+        {
+          "type": "p",
+          "text": "无缝的国际贸易依赖于准确的单证。专业的供应商会为您管理这个复杂的过程。主要单证包括："
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>提单（B/L）：</strong>托运人与承运人之间的主要合同，作为货物的收据和所有权凭证。",
+            "<strong>商业发票和装箱单：</strong>详细说明交易、货物价值以及所运货物的完整清单。",
+            "<strong>原产地证书（COO）：</strong>证明货物在印度尼西亚制造，这对于清关和关税至关重要。",
+            "<strong>材料安全数据表（MSDS）：</strong>提供有关产品特性和处理的信息，通常由船公司要求。"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "正确处理这些文件对于避免在海关造成代价高昂的延误至关重要。"
+        }
+      ]
+    },
+    "indonesian-advantage-worlds-best-coconut-charcoal": {
+      "title": "印度尼西亚的优势：为什么世界上最好的椰壳炭来自这个群岛",
+      "excerpt": "印度尼西亚是全球优质椰壳炭的领导者，这并非偶然。探索造就这一优势的独特的地理、农业和工业因素组合。",
+      "image": "/charcoal.webp",
+      "date": "2025年9月24日",
+      "category": "行业见解",
+      "meta": {
+        "title": "印度尼西亚在椰壳炭生产中的优势 | Indo Charcoal Supply",
+        "description": "探讨印度尼西亚生产世界上最好的椰壳炭的4个关键原因——丰富的原材料、理想的气候、成熟的生产生态系统和战略位置。"
+      },
+      "content": [
+        {
+          "type": "h2",
+          "text": "为什么是印度尼西亚？全球木炭卓越的源泉"
+        },
+        {
+          "type": "p",
+          "text": "在全球优质椰壳炭市场中，有一个国家作为无可争议的领导者脱颖而出：<strong>印度尼西亚</strong>。但为什么呢？这种主导地位并非偶然。它是独特的地理优势、成熟的农业部门和根深蒂固的工业生态系统强大组合的结果。对于有眼光的买家来说，选择印度尼西亚供应商意味着利用这整个卓越的框架。"
+        },
+        {
+          "type": "h3",
+          "text": "1. 无与伦比的优质原材料储量"
+        },
+        {
+          "type": "p",
+          "text": "任何优质木炭的基础都是其原材料。印度尼西亚是<strong>世界椰子之都</strong>，在苏门答腊、爪哇和苏拉威西等岛屿上拥有广阔的种植园。这种巨大的规模为木炭生产提供了持续、全年供应的成熟椰子壳——这是最密集、最纯净的来源。与较小的国家不同，印度尼西亚的生产商拥有无与伦比的获取最佳原材料的渠道，确保了稳定的供应链，能够在不影响质量的情况下满足大规模的国际需求。"
+        },
+        {
+          "type": "h3",
+          "text": "2. 生产高性能木炭的理想气候"
+        },
+        {
+          "type": "p",
+          "text": "印度尼西亚的赤道气候，阳光充足，雨量充沛，为种植<strong>异常厚实致密的椰子壳</strong>创造了完美的条件。这是一个至关重要但又常常被忽视的因素。更厚、更致密的壳含有更多的碳和更少的杂质。这直接转化为最终产品的关键性能指标：更高的固定碳含量，从而产生更高的热值（更多的热量）和明显更长的燃烧时间。"
+        },
+        {
+          "type": "h3",
+          "text": "3. 成熟和演进的生产生态系统"
+        },
+        {
+          "type": "p",
+          "text": "印度尼西亚的椰壳炭产业并非新兴产业；它是一个<strong>成熟、高度发达的生态系统</strong>。数十年的经验培养了一大批熟练的劳动力、经验丰富的生产技术人员和专业的设备制造商。这种产业成熟度意味着领先的生产商已经超越了基本方法，采用了现代、科学的方法进行碳化、混合和质量控制。这种知识共享和持续改进的生态系统使工厂能够始终如一地生产出符合高端国际市场要求的严格的<strong>低于2.5%的灰分含量</strong>标准的炭砖。"
+        }
+      ]
+    },
+    "complete-guide-to-high-quality-shisha-charcoal": {
+      "title": "高品质水烟炭砖完整指南",
+      "excerpt": "一次优质的水烟体验取决于两件事：烟草的质量和木炭的质量。本指南深入探讨了真正高质量的炭砖的构成要素。",
+      "image": "/shisha-charcoal-guide.webp",
+      "date": "2025年9月25日",
+      "category": "行业见解",
+      "meta": {
+        "title": "高品质水烟炭指南 | Indo Charcoal Supply",
+        "description": "了解从低灰分、长燃烧时间到详细的生产过程，是什么造就了优质水烟炭。为进口商和品牌提供的指南。"
+      },
+      "content": [
+        {
+          "type": "h2",
+          "text": "优质水烟炭的关键属性"
+        },
+        {
+          "type": "p",
+          "text": "选择合适的木炭对于消费者体验和您的品牌声誉都至关重要。以下是定义优质产品的核心规格："
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>低灰分含量：</strong>这是最关键的因素。像Indo Charcoal Supply这样的优质炭砖，灰分含量<strong>低于2.5%</strong>。低灰分意味着燃烧更清洁，托盘中的残留物更少，并且不会改变水烟的味道。",
+            "<strong>燃烧时间长：</strong>优质炭砖应在标准水烟碗上至少燃烧<strong>1.5小时</strong>。这样可以享受更长、更愉快的时光，而无需频繁更换木炭。",
+            "<strong>高热值：</strong>以千卡/千克为单位测量，高热值（超过<strong>7400千卡/千克</strong>）表示强烈、持续的热量。这对于适当加热水烟烟草和产生浓郁、美味的烟雾至关重要。",
+            "<strong>无味无臭：</strong>炭砖必须由100％的天然椰子壳制成，且不含任何化学添加剂。这可以确保木炭不会产生任何可能破坏水烟体验的难闻气味或味道。",
+            "<strong>无火花：</strong>专业级炭砖在点燃时不应产生火花或开裂，从而为用户提供安全、无忧的体验。"
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "生产过程：从椰子壳到优质炭砖"
+        },
+        {
+          "type": "p",
+          "text": "要实现这些优质属性，需要一个细致的生产过程。这一切都始于<strong>原材料</strong>：成熟、致密的椰子壳。然后将这些壳在专门的窑中高温碳化，以生产出具有高固定碳含量的高品质木炭。"
+        },
+        {
+          "type": "p",
+          "text": "碳化后，将木炭粉碎并与<strong>天然粘合剂</strong>（通常是食品级木薯淀粉）混合，然后模制成均匀的形状，如立方体或六角形。这个过程称为压块，是实现一致的密度和燃烧时间的关键。然后将炭砖干燥以除去所有水分，确保它们已准备好进行包装和运输。"
+        },
+        {
+          "type": "h2",
+          "text": "Indo Charcoal Supply的优势"
+        },
+        {
+          "type": "p",
+          "text": "在Indo Charcoal Supply，我们不仅仅是销售木炭；我们提供建立在质量和可靠性之上的合作伙伴关系。我们的炭砖生产严格遵守最高的国际标准，包括："
+        },
+        {
+          "type": "ul",
+          "items": [
+            "每批都经过<strong>实验室测试的质量</strong>，并附有分析证书。",
+            "得益于印度尼西亚丰富的椰子资源，<strong>供应链稳定</strong>。",
+            "<strong>可定制的包装</strong>，帮助您建立自己的品牌形象。"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "选择我们，您不仅能获得产品，还能在全球水烟市场获得战略优势。我们致力于帮助您为客户提供无与伦比的水烟体验。"
+        }
+      ]
+    }
+  },
+  "footer": {
+    "about": "成立于2021年，致力于在煤砖行业提供最优质、最快捷、最可靠的服务。",
+    "quickLinks": "快速链接",
+    "contactUs": "联系我们",
+    "followUs": "关注我们",
+    "address": "印度尼西亚, 日惹特区, 斯莱曼县, 马格朗街71号",
+    "rights": "版权所有。",
+    "links": {
+      "home": "首页",
+      "product": "产品",
+      "ourValues": "我们的价值观",
+      "productProfile": "产品简介",
+      "packaging": "包装",
+      "shipping": "运输"
+    }
+  },
+  "location": {
+    "title": "我们的位置",
+    "ariaLabel": "在谷歌地图上查看我们的位置",
+    "iframeTitle": "位置地图预览"
+  },
+  "team": {
+    "title": "认识我们的团队"
+  }
+}
