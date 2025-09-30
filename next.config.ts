@@ -1,67 +1,42 @@
-// next.config.ts
 import type { NextConfig } from "next";
-import createNextIntlPlugin from "next-intl/plugin";
-
-const withNextIntl = createNextIntlPlugin();
-const securityHeaders = [
-  {
-    key: 'Content-Security-Policy',
-    value: `
-      default-src 'self';
-      script-src 'self' 'unsafe-eval' 'unsafe-inline' *.google.com *.googleapis.com *.gstatic.com *.googletagmanager.com;
-      style-src 'self' 'unsafe-inline' *.google.com *.googleapis.com;
-      img-src 'self' data: blob: https://cdn.jsdelivr.net *.google.com *.gstatic.com images.unsplash.com *.googleapis.com *.ggpht.com *.googleusercontent.com maps.gstatic.com maps.googleapis.com;
-      font-src 'self' data: *.gstatic.com;
-      connect-src 'self' *.google.com *.googleapis.com *.google-analytics.com maps.googleapis.com maps.gstatic.com;
-      frame-src 'self' *.google.com *.googleapis.com;
-      frame-ancestors 'self';
-      form-action 'self';
-    `.replace(/\s{2,}/g, ' ').trim()
-  },
-  {
-    key: 'Strict-Transport-Security',
-    value: 'max-age=63072000; includeSubDomains; preload'
-  },
-  {
-    key: 'X-Content-Type-Options',
-    value: 'nosniff'
-  },
-  {
-    key: 'X-Frame-Options',
-    value: 'SAMEORIGIN'
-  },
-  {
-    key: 'X-XSS-Protection',
-    value: '1; mode=block'
-  },
-  {
-    key: 'Cross-Origin-Opener-Policy',
-    value: 'same-origin'
-  },
-  {
-    key: 'Referrer-Policy',
-    value: 'strict-origin-when-cross-origin'
-  }
-];
-
 
 const nextConfig: NextConfig = {
   images: {
     remotePatterns: [
       {
-        protocol: 'https',
-        hostname: 'images.unsplash.com',
+        protocol: "http",
+        hostname: "localhost",
+        port: "8000",
+        pathname: "/storage/**",
+      },
+      {
+        protocol: "https",
+        hostname: "api.indocharcoalsupply.com",
+        pathname: "/storage/**",
       },
     ],
   },
+
   async headers() {
     return [
       {
-        source: '/:path*',
-        headers: securityHeaders,
+        source: "/:path*",
+        headers: [
+          {
+            key: "Content-Security-Policy",
+            value: `
+              default-src 'self';
+              script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.google.com https://*.googleapis.com https://*.google-analytics.com;
+              style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
+              img-src 'self' data: https://api.indocharcoalsupply.com http://localhost:8000 https://*.google-analytics.com;
+              font-src 'self' https://fonts.gstatic.com;
+              connect-src 'self' https://api.indocharcoalsupply.com https://*.google.com https://*.googleapis.com https://*.google-analytics.com https://maps.googleapis.com https://maps.gstatic.com;
+            `.replace(/\s{2,}/g, " ").trim(),
+          },
+        ],
       },
     ];
   },
 };
 
-export default withNextIntl(nextConfig);
+export default nextConfig;
